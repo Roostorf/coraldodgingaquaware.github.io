@@ -22,7 +22,7 @@ The landing page is presented to users when they visit the top-level URL to the 
 
 ### Index pages (Projects, Profiles, Interests)
 
-Bowfolios provides three public pages that present the contents of the database organized in various ways.
+Coraldodgingaquaware provides three public pages that present the contents of the database organized in various ways.
 
 The Profiles page shows all the current defined profiles and their associated Projects and Interests:
 
